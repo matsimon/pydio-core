@@ -20,101 +20,102 @@
 */
 $mess=array(
 "1" => "Gemeinsame Benutzer",
-"2" => "Gemeinsame Repositories",
+"2" => "Gemeinsame Ablagen",
 "3" => "Öffentliche Dateien",
 "4"	=> "Dateipfad",
-"5"	=> "Repository",
+"5"	=> "Ablage",
 "6"	=> "Passwort",
 "7"	=> "Ablauf",
 "8" => "Elemente",
 "9" => "Verknüpfte Benutzer",
-"10"=> "Verknüpfte Repositories",
+"10"=> "Verknüpfte Ablagen",
 "11"=> "Sollen die ausgewählten Elemente wirklich gelöscht werden?",
 "12"=> "Die Berechtigung zum Löschen dieses Elements fehlt.",
 "13"=> "Öffentliche Dateien erfolgreich entfernt.",
 "14"=> "Integrität",
 "15"=> "OK",
 "16"=> "Fehlerhaft",
-"17"=> "Download URL",
+"17"=> "Download-URL",
 "18"=> "URL kopieren",
 "19"=> "URL zum Senden per E-Mail kopieren.",
 "20"=> "Downloads",
 "21"=> "Ja",
 "22"=> "Nein",
 "23"=> "%s Dateien erfolgreich gelöscht.",
-"24"=> "Nichts zum Entfernen.",
-"25"=> "Entfernen abgelaufen",
-"26"=> "Ausgelaufene freigegebene Dateien entfernen.",
+"24"=> "Nichts zu löschen.",
+"25"=> "Abgelaufene Links bereinigen",
+"26"=> "Abgelaufene geteilte Dateien löschen.",
 "27"=> "Besitzer",
 "28"=> "Dateien zum direkten Download mit oder ohne Passwortschutz freigegeben.",
-"29"=> "Repositories von Benutzern übertragen.",
-"30"=> "Erzeugte Benutzer zum Zugriff auf die übertragenen Repositories.",
+"29"=> "Ablagen von Benutzern übertragen.",
+"30"=> "Erzeugte Benutzer zum Zugriff auf die übertragenen Ablagen.",
 "31"=> "Beschreibung",
 "32"=> "Zurücksetzen",
 "33"=> "Download-Zähler zurücksetzen",
-"title" => "My Dashboard",
-"desc" => "Manage my account preferences, my address book, shared elements, etc.",
-"34" => "My Shares",
-"35" => "All my shared items (files and folders)",
-"36" => "Parameters",
-"37" => "My profile and application settings",
-"38"=> "Notifications",
-"39"=> "Select a workspace",
-"40"=> "Welcome, %s",
-"41"=> "Use this workspace as default",
+"title" => "Mein Dashboard",
+"desc" => "Verwaltung von Einstellungen, eigenem Adressbuch, geteilten Elementen etc.",
+"34" => "Meine Freigaben",
+"35" => "All meine geteilten Elemente (Dateien & Ordner)",
+"36" => "Einstellungen",
+"37" => "Mein Konto- und Applikationseinstellungen",
+"38"=> "Benachrichtigungen",
+"39"=> "Arbeitbereich wählen",
+"40"=> "Wilkommen %s",
+"41"=> "Diesen Arbeitsbereich standardmässig verwenden",
 "42"=> "Enter",
-"43"=> "My Profile",
-"43t"=> "All my personal data",
-"44"=> "My Account",
-"45"=> "Personal data",
-"46"=> "Address Book",
-"47"=> "Users and teams that you created",
-"48"=> "My Users",
-"49"=> "External users that you created",
-"50"=> "My Teams",
-"51"=> "Teams of users, used as shortcuts when sharing",
-"52"=> "Are you sure you want to delete this team? This will not remove any users.",
-    "53"=> "Getting Started",
-    "54"=> "Get started with APPLICATION_TITLE by following How-to videos",
-    "55"=> "Do you need help <a>to get started?</a>",
-    "56"=> "Getting started with APPLICATION_TITLE? Here are some videos for you!",
-    "57"=> "Download APPLICATION_TITLE for...",
-    "58"=> "Android device",
+"43"=> "Mein Profil",
+"43t"=> "Alle meine persönlichen Daten",
+"44"=> "Mein Konto",
+"45"=> "Persönliche Daten",
+"46"=> "Adressbuch",
+"47"=> "Benutzer und Teams, die Sie erstellt haben",
+"48"=> "Meine Benutzer",
+"49"=> "Externe Benutzer die Sie erstellt haben",
+"50"=> "Meine Teams",
+"51"=> "Teams von Benutzern of users, used as shortcuts when sharing",
+"52"=> "Sind Sie sicher, dass Sie dieses Team löschen wollen? Dies wir keine Benutzer löschen.",
+    "53"=> "Erste Schritte",
+    "54"=> "Machen Sie die ersten Schritte in APPLICATION_TITLE mit folgenden Video-Kurzanleitungen",
+    "55"=> "Brauchen Sie Unterstützung <a>für die Ersten Schritte?</a>",
+    "56"=> "Ihre ersten Schritte mit APPLICATION_TITLE? Hier finden Sie einige Videos!",
+    "57"=> "APPLICATION_TITLE herunterladen für...",
+    "58"=> "Android-Geräte",
     "59"=> "iPhone/iPad",
     "60"=>"Mac OS (Beta)",
     "61"=>"Windows (Beta)",
-    "62"=>"<h2>Getting started</h2>
-            This video is an introduction to APPLICATION_TITLE web application:
+    "62"=>"<h2>Erste Schrite</h2>
+            Dieses Video gibt eine Einführung zur APPLICATION_TITLE Webapplikation:
             <ul>
                 <li>User Dashboard</li>
-                <li>GUI Overview</li>
-                <li>Managing files and folders</li>
-                <li>Previewing and editing files</li>
-                <li>Quick access through bookmarks and search engine</li>
-                <li>Selection cart</li>
+                <li>Übersicht über die Benutzeroberfläche</li>
+                <li>Dateien und Ordner verwalten</li>
+                <li>Vorschau und Bearbeitung von Dateien</li>
+                <li>Schnellzugriff über Lesezeichen und die Suche</li>
+                <li>Auswahlkorb</li>
             </ul>",
-    "63"=>"<h2>Sharing files with APPLICATION_TITLE</h2>
-                            In this tutorial, we will cover the basics of file sharing with APPLICATION_TITLE:
+    "63"=>"<h2>Dateien mit APPLICATION_TITLE teilen</h2>
+                            In diesem Tutorial werden die Grundlagen für das teilen von Dateien mit APPLICATION_TITLE gezeigt:
                             <ul>
-                                <li>Create web links</li>
-                                <li>Send them to internal or external users</li>
-                                <li>Get notified that a link was downloaded</li>
-                                <li>Create a password-protected link</li>
-                                <li>Create many links on one file</li>
-                                <li>Stop sharing a file totally</li>
+                                <li>Neue Web-Links erstellen</li>
+                                <li>Versenden von Links an interne und externe Nutzer</li>
+                                <li>Benachrichtigung wenn Download-Link verwendet wurde</li>
+                                <li>Passwortgeschützen Download-Link erstellen</li>
+                                <li>Mehrere Links auf einer Datei erstellen</li>
+                                <li>Teilen einer Datei beenden</li>
             </ul>",
-    "64"=>"<h2>Sharing folders with APPLICATION_TITLE</h2>
-                            This video covers the various options to share folders in APPLICATION_TITLE
+    "64"=>"<h2>Ordner mit APPLICATION_TITLE teilen</h2>
+                            In diesem Video werden die verschiedenen Optionen für das Teilen von Ordner mit APPLICATION_TITLE gezeigt
                             <ul>
-                                <li>Share as new workspace</li>
-                                <li>Share as a public minisite</li>
+                                <li>Als neue Arbeitsoberfläche teilen</li>
+                                <li>Als öffentliche Miniseite teilen</li>
             </ul>",
-    "65"=> "Discover more on the APPLICATION_TITLE channel!",
-    "66"=>"<h2>Using APPLICATION_TITLE on iOS device</h2>
-                            This video explains how to use the APPLICATION_TITLE application (available on the App Store). Process is quite similar on Android as well.
-<ul><li>Setup the server connection</li>
-<li>Navigating through the files</li>
-<li>Keeping files offline and interacting with external applications</li>
-<li>Protecting the app with a PIN-code</li>
-<li>Using bookmarks and search engine</li></ul>",
+    "65"=> "Mehr über APPLICATION_TITLE im YouTube-Channel erfahren",
+    "66"=>"<h2>APPLICATION_TITLE auf iOS-Geräten verwenden</h2>
+                            Dieses Video zeigt die Verwendung der APPLICATION_TITLE app (kostenlos im App Store(R)). Die Nutzung auf Android ist ähnlich.
+<ul><li>Serververbindung konfigurieren</li>
+<li>Dateinavigation</li>
+<li>Dateien offline speichern<li>
+<li>Interaktion mit anderen Apps</li>
+<li>App mit PIN-code schützen</li>
+<li>Verwendung von Lesezeichen und der Suchfunktion</li></ul>",
 );
