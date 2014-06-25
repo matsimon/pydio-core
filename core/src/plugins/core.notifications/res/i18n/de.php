@@ -24,6 +24,6 @@ $mess=array(
 "3" => "Wichtige Nachrichten",
 "4" => "Benachrichtigungen",
 "5" => "Aktuelle Geschehen",
-"6" => "Go to ...",
+"6" => "Gehe zu ...",
 "7" => "Dismiss",
 );
