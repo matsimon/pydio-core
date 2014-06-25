@@ -59,9 +59,9 @@ $mess=array(
 "36" => "Einstellungen",
 "37" => "Mein Konto- und Applikationseinstellungen",
 "38"=> "Benachrichtigungen",
-"39"=> "Arbeitbereich wählen",
+"39"=> "Arbeitsbereich wählen",
 "40"=> "Wilkommen %s",
-"41"=> "Diesen Arbeitsbereich standardmässig verwenden",
+"41"=> "Gewählten Arbeitsbereich standardmässig verwenden",
 "42"=> "Enter",
 "43"=> "Mein Profil",
 "43t"=> "Alle meine persönlichen Daten",
@@ -104,14 +104,14 @@ $mess=array(
                                 <li>Teilen einer Datei beenden</li>
             </ul>",
     "64"=>"<h2>Ordner mit APPLICATION_TITLE teilen</h2>
-                            In diesem Video werden die verschiedenen Optionen für das Teilen von Ordner mit APPLICATION_TITLE gezeigt
+                            In diesem Video werden verschiedenn Optionen für das Teilen von Ordner mit APPLICATION_TITLE gezeigt:
                             <ul>
                                 <li>Als neue Arbeitsoberfläche teilen</li>
                                 <li>Als öffentliche Miniseite teilen</li>
             </ul>",
-    "65"=> "Mehr über APPLICATION_TITLE im YouTube-Channel erfahren",
+    "65"=> "Mehr Videos im YouTube-Channel von APPLICATION_TITLE",
     "66"=>"<h2>APPLICATION_TITLE auf iOS-Geräten verwenden</h2>
-                            Dieses Video zeigt die Verwendung der APPLICATION_TITLE app (kostenlos im App Store(R)). Die Nutzung auf Android ist ähnlich.
+                            Dieses Video zeigt die Verwendung der APPLICATION_TITLE app (kostenlos im App Store). Die Nutzung auf Android ist ähnlich.
 <ul><li>Serververbindung konfigurieren</li>
 <li>Dateinavigation</li>
 <li>Dateien offline speichern<li>
