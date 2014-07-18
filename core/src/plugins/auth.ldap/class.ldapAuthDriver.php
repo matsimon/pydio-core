@@ -178,7 +178,7 @@ class ldapAuthDriver extends AbstractAuthDriver
         if ($this->ldapconn == null) {
             $this->ldapconn = $this->LDAP_Connect();
             if ($this->ldapconn == null) {
-                $this->logError(__FUNCTION__,'LDAP Server connexion could NOT be established');
+                $this->logError(__FUNCTION__,'LDAP Server connection could NOT be established');
             }
         }
         //return $this->ldapconn;
@@ -202,10 +202,10 @@ class ldapAuthDriver extends AbstractAuthDriver
 
             if ($this->ldapAdminUsername === null) {
                 //connecting anonymously
-                $this->logDebug(__FUNCTION__,'Anonymous LDAP connexion');
+                $this->logDebug(__FUNCTION__,'Anonymous LDAP connection');
                 $ldapbind = @ldap_bind($ldapconn);
             } else {
-                $this->logDebug(__FUNCTION__,'Standard LDAP connexion');
+                $this->logDebug(__FUNCTION__,'Standard LDAP connection');
                 $ldapbind = @ldap_bind($ldapconn, $this->ldapAdminUsername, $this->ldapAdminPassword);
             }
 
